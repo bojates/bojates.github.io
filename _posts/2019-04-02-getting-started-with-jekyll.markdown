@@ -47,7 +47,7 @@ Restarting the server updates the homepage to show new blog entries. I think bec
     git commit -m 'add your message'
     git push 
 
-View the pages at: [https://bojates.github.io/](https://bojates.github.io/)
+View the pages at: [https://bojates.github.io/](https://bojates.github.io/) (it can take a few minutes to update.)
 
     
 
