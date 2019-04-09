@@ -1,0 +1,33 @@
+---
+title: 100 days of code
+layout: post
+---
+## Rules
+####  I will code for at least an hour every week day for the next 100 days
+
+1. I will keep a log and push it to GitHub every day
+2. If I miss a day, it will be added to the end of the challenge
+3. Reading articles doesn't count. I must actually be coding on a project or working through solutions. 
+4. Paid work projects don't count. 
+
+## Log
+### Day 1: 8 April, 2019 (Monday)
+
+**Today's Progress**: Advanced problem: stars in a diamond. Tried timing it, and managed the first pass at the solution in 15 mins. Refactored for about 45 further mins, and looked at other solutions. 
+
+**Thoughts**: I forgot about the center method, which would have provided another solution. The main challenge was trying to make the code clear with variable naming. 
+
+**Link(s) to work**: 
+1. [Seeing stars](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/2.rb)
+
+
+
+-----
+## Log template 
+### Day 1: 4th April, 2019 (Thursday)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
