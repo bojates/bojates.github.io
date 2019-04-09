@@ -3,7 +3,7 @@ title: 100 days of code
 layout: post
 ---
 ## Rules
-####  I will code for at least an hour every week day for the next 100 days
+####  I will code for at least one hour every week day for the next 100 days
 
 1. I will keep a log and push it to GitHub every day
 2. If I miss a day, it will be added to the end of the challenge
@@ -19,6 +19,20 @@ layout: post
 
 **Link(s) to work**: 
 1. [Seeing stars](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/2.rb)
+
+### Day 2: 9 April, 2019 (Tuesday)
+
+**Today's Progress**: Advanced problems: transposing matrixes. Took 15 mins for each one to get to a working solution, then spent time refactoring and looking the provided solutions. 
+
+**Thoughts**: The mixture of `each_with_index` alongside a nested `map` is quite tricky to get used to. Once I'm in one mode of thought about how to handle some data, I seem to stick with it. I used `each_with_index` quite a lot, but the solutions used `0...range_limit` and `map` which works. A solution using `range_limit.times` also works. I'm not sure how best to choose between these different approaches, but am always aiming for clarity as much as possible, so that feels like a good starting point.
+
+**Link(s) to work**: 
+1. [Matrix 1](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/3.rb)
+2. [Matrix 2](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/4.rb)
+
+
+
+
 
 
 
