@@ -1,6 +1,7 @@
 ---
 title: 100 days of code
 layout: post
+date: 2019-04-08 17:11:47
 ---
 ## Rules
 ####  I will code for at least one hour every week day for the next 100 days

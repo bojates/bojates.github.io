@@ -24,4 +24,4 @@ layout: post
  - Always use two spaces for indents
  - Method, variables, or file name should always be snake_case; classes are in CamelCase
 
-(based on someone else's cheatsheet, but I've lost the link)
+(based on [this cheatsheet](https://mylsjourney.com/ruby-quick-reference/))
