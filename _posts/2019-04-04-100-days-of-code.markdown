@@ -31,7 +31,15 @@ date: 2019-04-08 17:11:47
 1. [Matrix 1](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/3.rb)
 2. [Matrix 2](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/4.rb)
 
+### Day 3: 10 Apr, 2019 (Weds)
 
+**Today's Progress**: Advanced problems. Rotating matrices and then fixing a bug. Fix the bug took about 30 mins because I spent quite a while trying to work out why the return value was nil. I didn't manage to work it out, but the explanation at LS made total sense.
+
+**Thoughts**: It didn't even occur to me that Ruby would go to the next line for the evaluation of the `if`, `elsif`, `else` statement. I'm not sure why, but it is quite intuitive, as Ruby is quite forgiving about line breaks. 
+
+**Links to work**:
+1. [Matrices](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/5.rb)
+2. [Fix the bug](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/6.rb)
 
 
 
