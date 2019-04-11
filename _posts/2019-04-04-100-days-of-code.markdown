@@ -41,8 +41,14 @@ date: 2019-04-08 17:11:47
 1. [Matrices](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/5.rb)
 2. [Fix the bug](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/6.rb)
 
+### Day 4: 11th April, 2019 (Thurs)
 
+**Today's Progress**: Advanced problem merging arrays in sorted order, without using sort. V. tricky. Took about 30 mins to get a working version, then a further 25 or so looking at other solutions. Then CodeWars: 1 at level 7 and a couple at level 6. 
 
+**Thoughts**: I seem able to reach solutions, but they aren't always the nicests, cleanest ones. CodeWars seems fun, but it's a little bit confusing at the moment. 
+
+**Link(s) to work**: 
+1. [Merge](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/7.rb)
 
 
 -----
