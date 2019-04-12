@@ -50,6 +50,15 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Merge](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/7.rb)
 
+### Day 5: 12th April, 2019 (Fri)
+
+**Today's Progress**: Advanced problem merge sort. I couldn't solve it in 45 minutes, and gave up and looked at the psuedo code. I solved it after that, but still struggle to follow the recursion properly. 
+
+**Thoughts**: Recursion is tough. I understand it when I dive into it, but each time I need to get my head around it. I think it's becoming clearer each time I try to grapple with it. But only just! It's also tough going into these advanced problems cold. I feel like it might be sensible to do a bit more of a 'warm up' into them. At the moment, I'm glancing through my notes from the previous day and diving in. I might be better starting with a codewars level 7, and then diving into advanced. 
+
+**Link(s) to work**: 
+1. [Merge Sort](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/8.rb)
+
 
 -----
 ## Log template 
