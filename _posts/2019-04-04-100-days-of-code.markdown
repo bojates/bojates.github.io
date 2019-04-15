@@ -59,6 +59,15 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Merge Sort](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/8.rb)
 
+### Day 6: 15th April, 2019 (Mon)
+
+**Today's Progress**: Some CodeWars level 6, and then Advanced problem Egyptian Fractions. I spent about 45 mins unable to work it out, then read through an online resource about it, which explained the Greedy algorithm, which I think implemented. Then I checked the solution, and refactored. Then I saw that the algorithm is inefficient if the number is large (e.g. 4), so refactored again to try to solve that. 
+
+**Thoughts**: Warming up with CodeWars was good, because the Egyptian Fractions problem was very tough. I went in and out of comprehension of the problem. Rubocop is unhappy about my conditional statements. I don't know how I could refactor them to make rubocop happy. 
+
+**Link(s) to work**: 
+1. [Egyptian Fractions](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/9.rb)
+
 
 -----
 ## Log template 
