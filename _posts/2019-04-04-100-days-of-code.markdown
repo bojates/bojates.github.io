@@ -68,6 +68,11 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Egyptian Fractions](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/9.rb)
 
+### Day 7: 16th April, 2019 (Tues)
+
+**Today's Progress**: CodeWars Level 6. Also a refactoring on the LS forum. And my first study group, in which I attempted a live coding challenge. 
+
+**Thoughts**: Live coding is hard, and scary, and I'm glad I've got one over with! Refactoring a problem trying to work out the parameters of the problem can be fun. 
 
 -----
 ## Log template 
