@@ -74,6 +74,13 @@ date: 2019-04-08 17:11:47
 
 **Thoughts**: Live coding is hard, and scary, and I'm glad I've got one over with! Refactoring a problem trying to work out the parameters of the problem can be fun. 
 
+### Day 8: 17th April, 2019 (Weds)
+
+**Today's Progress**: Exploring Prime numbers. Wrote an is_prime? method. Discovered negative numbers are normally not considered Prime. Found the Prime method in ruby. Tried doing a CodeWars challenge while talking out loud, and made a mistake in understanding the question as a result. 
+
+**Thoughts**: I need to practice talking out loud more, and I should explore approaches for ensuring I understand the problem. I normally take the written problem and break it into lines, but I didn't do that today. I think I would have found it if I did. Perhaps the message is, trust myself and my processes and don't change them just because I'm talking aloud or feeling time pressure. 25 mins to solve it is not good enough. 
+
+
 -----
 ## Log template 
 ### Day 1: 4th April, 2019 (Thursday)
