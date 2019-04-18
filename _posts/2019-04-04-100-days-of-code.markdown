@@ -80,6 +80,12 @@ date: 2019-04-08 17:11:47
 
 **Thoughts**: I need to practice talking out loud more, and I should explore approaches for ensuring I understand the problem. I normally take the written problem and break it into lines, but I didn't do that today. I think I would have found it if I did. Perhaps the message is, trust myself and my processes and don't change them just because I'm talking aloud or feeling time pressure. 25 mins to solve it is not good enough. 
 
+### Day 9: 18th April, 2019 (Thurs)
+
+**Today's Progress**: Worked on a couple of CodeWars problems. One at level 4, which was impossible. One at level 5, which I got close to, but ultimately found impossible. Perhaps due to the maths. 
+
+**Thoughts**: Good to try these challenges. Even failure counts as learning. 
+
 
 -----
 ## Log template 
