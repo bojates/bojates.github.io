@@ -86,6 +86,16 @@ date: 2019-04-08 17:11:47
 
 **Thoughts**: Good to try these challenges. Even failure counts as learning. 
 
+### Day 10: 23rd April, 2019 (Tues)
+
+**Today's Progress**: Debugging exercises. Trying to explain the problem in a few of them, to practice for the LS assessment. 
+
+**Thoughts**: Sluggish return after a few days off for the long weekend. I am still ocassionally missing x += i stuff. And I haven't memorised some key methods as well as I would like to. 
+
+**Link(s) to work**: 
+1. [Debugging 1-5](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
+
+
 
 -----
 ## Log template 
