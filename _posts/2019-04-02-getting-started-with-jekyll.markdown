@@ -31,6 +31,7 @@ Jeyll and GitHub pages are designed to play nicely together. What I did:
 
 ## Markdown reference
 
+[GFM at GitHub](https://github.github.com/gfm/)
 [Kramdown](https://kramdown.gettalong.org/quickref.html)
 
 ## To view the site locally, use
