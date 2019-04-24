@@ -95,6 +95,14 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Debugging 1-5](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
 
+### Day 11: 23rd April, 2019 (Weds)
+
+**Today's Progress**: Debugging exercises in LS. 
+
+**Thoughts**: It's good to keep working away at these, but I'm aware I need to practice the precision of language and talking through problems out loud. Getting the right balance is feeling a bit tricky. 
+
+**Link(s) to work**: 
+1. [Debugging 6-9](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
 
 
 -----
