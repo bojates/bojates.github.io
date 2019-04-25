@@ -104,10 +104,18 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Debugging 6-9](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
 
+### Day 12: 25th April, 2019 (Thur)
+
+**Today's Progress**: Finished debugging exercises. Working on explaining code in precise full English. 
+
+**Thoughts**: It feels like this should be easy, but it's not. It just needs practice. It's interesting because I understand the concepts, but using the correct terminology is more difficult. I can tell this is going to be a key bit of feeling confident in what I know, but it's interesting how much low level resistance I am feeling to it. It doesn't feel like 'learning' in the same way as other exercises. But it is! 
+
+**Link(s) to work**: 
+1. [Debugging 10](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
 
 <!--
 ## Log template 
-### Day 1: 4th April, 2019 (Thursday)
+### Day 1: 4th April, 2019 (Thurs)
 
 **Today's Progress**: 
 
