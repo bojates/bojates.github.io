@@ -113,6 +113,15 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Debugging 10](https://github.com/bojates/launchschool/tree/master/rb101/small_probs/debugging)
 
+### Day 13: 30th April, 2019 (Tues)
+
+**Today's Progress**: CodeWars Kata. Level 6, but I found it very difficult. 
+
+**Thoughts**: Reverse pyramid. I became convinced it was a recursion problem that I was going to solve without recursion, but it isn't. It took me a while to really get the logic of it, and my solution isn't nearly as nice as others. It's been a busy and stressful few days in my life, and coding has taken a back seat. It's feeling tough to get back into it, and I can feel my level has dropped a bit through lack of focussed practice, but also the mental energy I've been expending elsewhere. It feels like I can't give it 100% and I don't feel as persistent. So, in that context, it was good to see this one through to a resolution, however messy. 
+
+**Link(s) to work**:
+1. [Upside-Down Pyramid Addition...REVERSED!](https://www.codewars.com/kata/reviews/5cc6daa88ebbd900010618c4/groups/5cc86c2ee0e3e00001a97f35)
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
