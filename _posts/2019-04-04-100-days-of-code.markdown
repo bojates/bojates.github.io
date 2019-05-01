@@ -12,7 +12,7 @@ date: 2019-04-08 17:11:47
 4. Paid work projects don't count. 
 
 ## Log
-### Day 1: 8 April, 2019 (Monday)
+### Day 1: 8 April, 2019 (Mon)
 
 **Today's Progress**: Advanced problem: stars in a diamond. Tried timing it, and managed the first pass at the solution in 15 mins. Refactored for about 45 further mins, and looked at other solutions. 
 
@@ -21,7 +21,7 @@ date: 2019-04-08 17:11:47
 **Link(s) to work**: 
 1. [Seeing stars](https://github.com/bojates/launchschool/blob/master/rb101/small_probs/advanced_1/2.rb)
 
-### Day 2: 9 April, 2019 (Tuesday)
+### Day 2: 9 April, 2019 (Tues)
 
 **Today's Progress**: Advanced problems: transposing matrixes. Took 15 mins for each one to get to a working solution, then spent time refactoring and looking the provided solutions. 
 
@@ -121,6 +121,50 @@ date: 2019-04-08 17:11:47
 
 **Link(s) to work**:
 1. [Upside-Down Pyramid Addition...REVERSED!](https://www.codewars.com/kata/reviews/5cc6daa88ebbd900010618c4/groups/5cc86c2ee0e3e00001a97f35)
+
+### Day 14: 1st May, 2019 (Weds)
+
+**Today's Progress**:  Looked into a couple of solutions for Dasherizer problem that was covered in study group. Then explored how to compare adjacent items in arrays. One option is the `each_cons` method in ruby, which takes each consecutive pair. Another is to loop through the array with an index, and behave differently on the last loop (where the compared item will be returned a `nil` because it doesn't exist (arr[max_index + 1]). 
+
+e.g. 
+
+{% highlight ruby %}
+  def compare_items(arr)
+    # Can also use `map.with_index` here.
+    arr.each_with_index do |x, idx|
+      if idx == arr.size - 1
+        # do something for the last loop only
+      else
+        if x == arr[idx + 1]
+          # Do what you're gonna do
+        else
+          # Do what you're gonna do 
+        end
+      end
+    end
+  end
+{% endhighlight %}
+
+Or the `each_cons` approach. 
+{% highlight ruby %}
+  def compare_items(arr)
+    arr.each_cons(2) do |a, b|
+      if a == b
+        # do what you're gonna do
+        # e.g. add a to an array
+        new_arr << "#{a} is amazing"
+      else
+        new_arr << a
+      end
+    end
+    # You might want to collect the last item here 
+    # e.g. if you've been collecting `a` in the block. 
+    # because the final item is never set to `a` when we have 2 cons items
+    new_arr << arr.last
+  end
+{% endhighlight %}
+
+**Thoughts**: So much in ruby is so easy, so it's a bit odd there isn't a shortcut way to say `first in the iteration` or `last in the iteration`.
 
 <!--
 ## Log template 
