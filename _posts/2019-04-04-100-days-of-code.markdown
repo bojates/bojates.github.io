@@ -166,6 +166,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: So much in ruby is so easy, so it's a bit odd there isn't a shortcut way to say `first in the iteration` or `last in the iteration`.
 
+### Day 15: 2nd May, 2019 (Thurs)
+
+**Today's Progress**: One CodeWars problem. Getting massively confused with time and calculations around distance and velocity etc. 
+
+**Thoughts**: Should spend some time getting my head around all this maths again, perhaps?
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
