@@ -172,6 +172,13 @@ Or the `each_cons` approach.
 
 **Thoughts**: Should spend some time getting my head around all this maths again, perhaps?
 
+### Day 16: 3rd May, 2019 (Fri)
+
+**Today's Progress**: CodeWars Kata. Revisited briefly the kata from yesterday and the solution seemed to require cleverness around the velocity calculation that I can't quite get my head around. Then did another kata in a decent timeframe about version incrementing. Happy with my result, but when looking at solutions I see there is a ruby method that does it out of the box. Did some Anki flashcards that I downloaded as well. Some of these are beyond my knowledge so far, but quite interesting to see. 
+
+**Thoughts**: I should probably revise some more ruby methods. I'm not sure if I should be getting my head around the velocity stuff. 
+
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
