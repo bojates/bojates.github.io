@@ -178,6 +178,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: I should probably revise some more ruby methods. I'm not sure if I should be getting my head around the velocity stuff. 
 
+### Day 17: 7th May, 2019 (Tue)
+
+**Today's Progress**: Reviewing easy exercises from before. Solving them again and often finding the same solution. 
+
+**Thoughts**: Balacing doing the coding, through this project, with the theoretical revision, is quite a good balance. 
+
 
 <!--
 ## Log template 
