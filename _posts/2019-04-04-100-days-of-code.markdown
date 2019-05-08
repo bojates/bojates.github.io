@@ -184,6 +184,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: Balacing doing the coding, through this project, with the theoretical revision, is quite a good balance. 
 
+### Day 18: 8th May, 2019 (Wed)
+
+**Today's Progress**: Reviewing medium solutions and finding I'm solving them in tidier ways. 
+
+**Thoughts**: Very tired today, so misread a question. That's the bit that goes out the window when my brain isn't engaged enough. 
+
 
 <!--
 ## Log template 
