@@ -190,6 +190,11 @@ Or the `each_cons` approach.
 
 **Thoughts**: Very tired today, so misread a question. That's the bit that goes out the window when my brain isn't engaged enough. 
 
+### Day 19: 9th May, 2019 (Thurs)
+
+**Today's Progress**: Working out how to tackle the assessment, and working through timings and devising an actual strategy. 
+
+**Thoughts**: Was in two minds about whether this counts, but I think it does. Just. 
 
 <!--
 ## Log template 
