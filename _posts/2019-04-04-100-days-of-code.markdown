@@ -196,6 +196,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: Was in two minds about whether this counts, but I think it does. Just. 
 
+### Day 20: 10th May, 2019 (Fri)
+
+**Today's Progress**: Working through medium lessons again and pulling out notes for definitions. 
+
+**Thoughts**: Still refining the exact wording for things. 
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
