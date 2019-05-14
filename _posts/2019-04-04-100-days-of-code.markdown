@@ -202,6 +202,13 @@ Or the `each_cons` approach.
 
 **Thoughts**: Still refining the exact wording for things. 
 
+### Day 21: 14th May, 2019 (Tue)
+
+**Today's Progress**: Working through Enumerable methods and trying to understand them all. Got as far as 'c'. 
+
+**Thoughts**: Skipped yesterday's day of code because I finally did the assessment. 
+
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
