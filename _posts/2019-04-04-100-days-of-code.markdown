@@ -214,6 +214,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: There's a certain pleasure to plugging away at this stuff. Awaiting assessment results. 
 
+### Day 23: 16th May, 2019 (Thu)
+
+**Today's Progress**: Got my results, so working on the things that should be 'easy' according to the next bit of the study guide. 
+
+**Thoughts**: It's odd actually having to engage with 'fibonacci' sequences and 'factors' etc. I wonder if these are actually needed in the real world? Happy with my assessment result. :-) 
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
