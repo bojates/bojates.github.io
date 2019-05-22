@@ -227,6 +227,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: Speaking while coding needs work. Good that I'm working on it, then. 
 
+### Day 25: 22nd May, 2019 (Wed)
+
+**Today's Progress**: Revisiting medium problems. Recorded myself yesterday but didn't manage a full hour, so didn't count. 
+
+**Thoughts**: Speaking while coding still needs work. 
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
