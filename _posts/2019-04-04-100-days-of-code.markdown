@@ -233,6 +233,12 @@ Or the `each_cons` approach.
 
 **Thoughts**: Speaking while coding still needs work. 
 
+### Day 26: 23rd May, 2019 (Thur)
+
+**Today's Progress**: Revisiting medium problems. Reaching cleaner solutions than previously, which is nice. Worked on the Friday 13th problems. 
+
+**Thoughts**: It's good to have greater and greater fluency with the code, and revisiting the older problems is interesting as sometimes I reach the same solution, and sometimes it's quite different. Practicing going into irb to confirm things is nice, too. 
+
 <!--
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
