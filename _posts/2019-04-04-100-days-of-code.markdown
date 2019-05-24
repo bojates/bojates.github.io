@@ -239,7 +239,14 @@ Or the `each_cons` approach.
 
 **Thoughts**: It's good to have greater and greater fluency with the code, and revisiting the older problems is interesting as sometimes I reach the same solution, and sometimes it's quite different. Practicing going into irb to confirm things is nice, too. 
 
+### Day 27: 24 May 2019 (Fri)
+
+**Today's Progress**: Video'd myself doing a level 5 kata and it took 40 mins. Tough challenge, and made harder by filming. 
+
+**Thoughts**: I think I need to get more comfortable mutating arrays and navigating around them with push, pop etc. I seem to often think there's a simpler way than the one I think of. I should probably trust the longer approach I can think of and then try to simplify. 
+
 <!--
+` dayheader keyword 
 ## Log template 
 ### Day 1: 4th April, 2019 (Thurs)
 
