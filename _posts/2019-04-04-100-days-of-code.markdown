@@ -245,6 +245,14 @@ Or the `each_cons` approach.
 
 **Thoughts**: I think I need to get more comfortable mutating arrays and navigating around them with push, pop etc. I seem to often think there's a simpler way than the one I think of. I should probably trust the longer approach I can think of and then try to simplify. 
 
+### Day 28: 27 May 2019 (Mon)
+
+**Today's Progress**: Working through a couple of Codewars problems and then looking into Prime numbers a bit. A relatively safe rule seems to be to have a range to check on that's (2..Math.sqrt(num)). 
+
+Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and keeping the delimiter. 
+
+**Thoughts**: Not sure to what extent I should learn these regexps vs just knowing where to find them. 
+
 <!--
 ` dayheader keyword 
 ## Log template 
