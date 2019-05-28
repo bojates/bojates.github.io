@@ -253,6 +253,13 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Not sure to what extent I should learn these regexps vs just knowing where to find them. 
 
+### Day 29: 28 May 2019 (Tue)
+
+**Today's Progress**: Working on coding out loud in another study group. Then working through the problem again in my own time. 
+
+**Thoughts**: Still difficult to keep calm enough under pressure and not just rush through stuff. 
+
+
 <!--
 ` dayheader keyword 
 ## Log template 
