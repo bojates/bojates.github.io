@@ -259,6 +259,19 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Still difficult to keep calm enough under pressure and not just rush through stuff. 
 
+### Day 29: 30 May 2019 (Wed)
+
+**Today's Progress**: Working through lots of revisited coding challenges ahead of the interview tomorrow. 
+
+**Thoughts**: Feeling rusty with some of these, I think, but also find bits of them easier. Hard to guage exactly where I'm at. 
+
+### Day 30: 30 May 2019 (Thu)
+
+**Today's Progress**: Warm up for the interview and then the interview itself. 
+
+**Thoughts**: Got stressed in the warm up, which wasn't good. Went well. Feedback was to work on verbalising more consistently, and to do the pseudo code at a higher level. These are both things I know I struggle with, and I hope will just improve with practice. 
+
+
 
 <!--
 ` dayheader keyword 
