@@ -271,6 +271,11 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Got stressed in the warm up, which wasn't good. Went well. Feedback was to work on verbalising more consistently, and to do the pseudo code at a higher level. These are both things I know I struggle with, and I hope will just improve with practice. 
 
+### Day 31: 31 May 2019 (Fri)
+
+**Today's Progress**: Starting to learn OOP. 
+
+**Thoughts**: It was good to examine the OOP concepts and play with them, slightly ahead of the book asking me to. Good to feel proactive. In other news, feeling like my note taking might want reviewing slightly. 
 
 
 <!--
