@@ -5,7 +5,7 @@ categories: ruby
 ---
 for the game of 21, I coded the following methods: 
 
-{% highlight ruby %}
+```ruby
 def build_deck
     deck = []
     SUITS.each do |s|
@@ -21,11 +21,10 @@ def get_card(deck)
     deck.delete(card)
     card
 end
-{% endhighlight %}
-
+```
 A far easier approach: 
 
-{% highlight ruby %}
+```ruby
 def build_deck
 deck = []
     SUITS.each do |s|
@@ -39,4 +38,4 @@ end
 def get_card(deck)
     deck.pop
 end
-{% endhighlight %}
+```

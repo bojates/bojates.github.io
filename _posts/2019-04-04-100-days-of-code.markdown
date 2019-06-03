@@ -4,7 +4,7 @@ layout: post
 date: 2019-04-08 17:11:47
 ---
 ## Rules
-####  I will code for at least one hour every week day for the next 100 days
+####  I will code for at least one hour every weekday for the next 100 days
 
 1. I will keep a log and push it to GitHub every day
 2. If I miss a day, it will be added to the end of the challenge
@@ -277,6 +277,11 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: It was good to examine the OOP concepts and play with them, slightly ahead of the book asking me to. Good to feel proactive. In other news, feeling like my note taking might want reviewing slightly. 
 
+### Day 32: 3 Jun 2019 (Mon)
+
+**Today's Progress**: Working through a couple of kata on CodeWars. Looked at feedback for one of my solutions and saw its not considered efficient. Interesting element I've not been paying attention to. 
+
+**Thoughts**: Also trying to review how to take notes, and improve my usage of the tools I already have in use. It's almost like for every bit of my setup it's worth spending an hour going through the docs every now and then to level up. But I can only change so much at a time. 
 
 <!--
 ` dayheader keyword 
