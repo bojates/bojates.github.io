@@ -1,0 +1,40 @@
+---
+title: "RB101 and RB109"
+layout: post
+categories: launch_school ruby
+---
+I've just completed the first assessed course as part of Launch School, RB101, which covers the basics of ruby. 
+
+## Timescale
+It took me longer than I expected, but for reasons I feel I understand. They are: 
+
+ - various periods of illness or injury that took my attention elsewhere
+ - an unexpected amount of work required to improve my studying skills 
+	 - getting familiar with Anki for flashcards
+	 - engaging with the process of note taking
+ - ensuring I had an ability to talk about the concepts, not just intuitively understand them
+ - a couple of weeks of work, and a couple of weeks of holiday, threw not only those periods but also my rhythm. 
+
+All in, the first course took me about 4 months. Significantly longer than I had anticipated. 
+
+## Content
+The content of the course was fantastic, and I'm really looking forward to the next phase. I have a far better understanding of Ruby now than when I started, but also a better understanding of my strengths and weaknesses. 
+
+Key themes covered were: 
+
+ - problem solving
+ - return values vs outputs
+ - scopes
+ - mutation of values vs reassignment
+
+## Next steps
+Clearly I'm moving on to the next bit of the course, but I also have these things to work on: 
+
+ - ability to explain my thought processes while I'm coding. I find this incredibly difficult. 
+ - starting to tackle a problem with high level algorithms, rather than jumping to implementation
+	 - if I can crack this, life will be better! This is how I'll be able to model a few solutions to a problem before committing to one, and diving into the code. 
+ - note taking, which still feels a bit haphazard, but will be a fantastic skill to get better at. 
+
+## Unexpected benefits
+I have already met some super smart people and I had not really considered this element of it all. There's a woman's group that meets monthly, but I also attended some study groups, which showed me a useful range of other people on the course. As I'm not working consistently with many people, it's good to be around smart people to challenge me.
+
