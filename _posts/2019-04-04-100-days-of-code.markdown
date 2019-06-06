@@ -283,6 +283,27 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Also trying to review how to take notes, and improve my usage of the tools I already have in use. It's almost like for every bit of my setup it's worth spending an hour going through the docs every now and then to level up. But I can only change so much at a time. 
 
+### Day 33: 5 Jun 2019 (Tue)
+
+**Today's Progress**: Worked on a small project for work (but not paid, so I decided it counts) to convert a json file from Joomla to an xml format for WordPress. 
+
+**Thoughts**: I was more confident doing this than I would have been a few months ago. I broke the problem down quite well and was confident using the modules I included. 
+
+**Links**: https://gist.github.com/bojates/a7953fe2cfd3dca6e74aab287d7d01c1
+
+### Day 34: 5 Jun 2019 (Weds)
+
+**Today's Progress**: Working through a level 4 kata. Certainly beyond me. 
+
+**Thoughts**:  Interesting to attempt, but perhaps not the best use of time. 
+
+### Day 35: 6 Jun 2019 (Thu)
+
+**Today's Progress**: Working through OOP problems. RPS. 
+
+**Thoughts**: Being a bit distracted about how to handle my note taking, as this is starting to feel quite fundamental. 
+
+
 <!--
 ` dayheader keyword 
 ## Log template 
