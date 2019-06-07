@@ -303,6 +303,11 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Being a bit distracted about how to handle my note taking, as this is starting to feel quite fundamental. 
 
+### Day 36: 7 Jun 2019 (Fri)
+
+**Today's Progress**: Working through TickTackToe oop code for LS. 
+
+**Thoughts**: Struggling with it a bit because it's hard to care. Taking it in bites. 
 
 <!--
 ` dayheader keyword 
