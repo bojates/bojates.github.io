@@ -309,6 +309,13 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Struggling with it a bit because it's hard to care. Taking it in bites. 
 
+### Day 37: 12 Jun 2019 (Wed)
+
+**Today's Progress**: Coded with Nathan. Then followed up a little myself. 
+
+**Thoughts**: Very useful to code with Nathan. We have different strengths, so I can see this being super useful. He helped me think about live interviewing as 'performance' and also was very disciplined about working through PEDAC. 
+
+
 <!--
 ` dayheader keyword 
 ## Log template 
