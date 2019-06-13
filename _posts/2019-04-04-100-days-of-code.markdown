@@ -315,6 +315,13 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Very useful to code with Nathan. We have different strengths, so I can see this being super useful. He helped me think about live interviewing as 'performance' and also was very disciplined about working through PEDAC. 
 
+### Day 38: 13 Jun 2019 (Thu)
+
+**Today's Progress**: RPSLS to the max. 
+
+**Thoughts**: Been struggling to care about this, but decided to go a 'hack' route, rather than game it the way suggested. The display info feels like it should be extractable from the main class, but I don't see how. 
+
+
 
 <!--
 ` dayheader keyword 
