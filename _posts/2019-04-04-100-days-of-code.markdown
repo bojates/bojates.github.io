@@ -321,7 +321,11 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Been struggling to care about this, but decided to go a 'hack' route, rather than game it the way suggested. The display info feels like it should be extractable from the main class, but I don't see how. 
 
+### Day 39: 14 Jun 2019 (Fri)
 
+**Today's Progress**: Finishing off RPSLS to my satisfaction and submitting it for code review. 
+
+**Thoughts**: A small extra feature I wanted to add at the end (splitting text on word breaks after a certain length) turned into a bit of a nightmare. Interesting that these things that seem like they should be simple sometimes aren't. 
 
 <!--
 ` dayheader keyword 
