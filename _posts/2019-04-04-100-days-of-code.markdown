@@ -327,6 +327,12 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: A small extra feature I wanted to add at the end (splitting text on word breaks after a certain length) turned into a bit of a nightmare. Interesting that these things that seem like they should be simple sometimes aren't. 
 
+### Day 40: 16 Jun 2019 (Sun)
+
+**Today's Progress**: Responding to feedback on RPSLS. CodeWarriors level 5 trying to use PEDAC really clearly. 
+
+**Thoughts**: Enjoying using PEDAC with greater discipline. 
+
 <!--
 ` dayheader keyword 
 ## Log template 
