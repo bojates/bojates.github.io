@@ -333,6 +333,12 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Enjoying using PEDAC with greater discipline. 
 
+### Day 41: 17 Jun 2019 (Mon)
+
+**Today's Progress**: A couple more changes to RPS based on feedback. Trying to really understand the way self works. Experimenting with examples and then creating more examples as I read through the next bit of the lesson. 
+
+**Thoughts**: I'm trying to write up notes from each lesson, from memory, immediately after doing each lesson. I'm writing them straight to the computer, and will need to see if this sticks as well as writing to a notebook has. 
+
 <!--
 ` dayheader keyword 
 ## Log template 
