@@ -339,6 +339,24 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: I'm trying to write up notes from each lesson, from memory, immediately after doing each lesson. I'm writing them straight to the computer, and will need to see if this sticks as well as writing to a notebook has. 
 
+### Day 42: 21 Jun 2019 (Tue)
+
+**Today's Progress**: OOP reading and following coding challenges.
+
+**Thoughts**: Feeling unwell, so taking it slow. 
+
+### Day 43: 21 Jun 2019 (Thur)
+
+**Today's Progress**: CodeWars challenge that was completely beyond me. 
+
+**Thoughts**: Maths problem. I needed to multiply by a square, I think. And then find a pattern. V difficult. 
+
+### Day 44: 21 Jun 2019 (Fri)
+
+**Today's Progress**: Working through RPS OOP style. 
+
+**Thoughts**: Trying to solve some of it ahead of the videos. 
+
 <!--
 ` dayheader keyword 
 ## Log template 
