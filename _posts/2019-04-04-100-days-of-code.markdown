@@ -357,6 +357,13 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Trying to solve some of it ahead of the videos. 
 
+### Day 45: 26 Jun 2019 (Wed)
+
+**Today's Progress**: Two codeWars challenges. One myself, and one from Nathan. 
+
+**Thoughts**: Getting better at taking people along on my journey with me, but still need to keep working on it. 
+
+
 <!--
 ` dayheader keyword 
 ## Log template 
