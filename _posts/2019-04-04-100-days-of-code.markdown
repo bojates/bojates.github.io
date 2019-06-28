@@ -363,6 +363,18 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Getting better at taking people along on my journey with me, but still need to keep working on it. 
 
+### Day 46: 28 Jun 2019 (Thu)
+
+**Today's Progress**: TicTacToe enchancements. 
+
+**Thoughts**: Struggling with caring about it. 
+
+### Day 47: 28 Jun 2019 (Fri)
+
+**Today's Progress**: TicTacToe enhancements. All of them. 
+
+**Thoughts**: Finally done. Useful to play with. Will review in the next session to see if they make sense. I'm certainly far more comfortable with OOP than I was 2 weeks ago! 
+
 
 <!--
 ` dayheader keyword 
