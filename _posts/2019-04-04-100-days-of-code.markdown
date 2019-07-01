@@ -375,6 +375,12 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Finally done. Useful to play with. Will review in the next session to see if they make sense. I'm certainly far more comfortable with OOP than I was 2 weeks ago! 
 
+### Day 48: 1 Jul 2019 (Mon)
+
+**Today's Progress**: Lots of tic tac toe enhancements. Mostly on board layout. 
+
+**Thoughts**: Not sure I learnt a massive more about OOP. Perhaps a bit of a rabbit hole. 
+
 
 <!--
 ` dayheader keyword 
