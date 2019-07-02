@@ -381,6 +381,12 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Not sure I learnt a massive more about OOP. Perhaps a bit of a rabbit hole. 
 
+### Day 49: 2 Jul 2019 (Tue)
+
+**Today's Progress**: Finished tic tac toe. Starting 21. 
+
+**Thoughts**: Trying to get through this faster as a test of what I get so far. 
+
 
 <!--
 ` dayheader keyword 
