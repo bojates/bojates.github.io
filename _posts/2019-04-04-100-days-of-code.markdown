@@ -393,15 +393,18 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Happy with the code review. I got positive feedback, but still not sure if that rabbit hole was entirely worth it. 
 
+### Day 51: 4 Jul 2019 (Thu)
+
+**Today's Progress**: OOP 21. Codewars. 
+
+**Thoughts**: Getting my head around most of the OOP concepts now. 
+
+### Day 52: 4 Jul 2019 (Fri)
+
+**Today's Progress**: Working through the 80 OOP problems. Did 60 of them. 
+
+**Thoughts**: Some of these seem incredibly trivial, and then a couple seem to introduce something we haven't come across before. 
 
 <!--
 ` dayheader keyword 
-## Log template 
-### Day 1: 4th April, 2019 (Thurs)
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
 -->
