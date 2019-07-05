@@ -395,15 +395,15 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 ### Day 51: 4 Jul 2019 (Thu)
 
-**Today's Progress**: OOP 21. Codewars. 
+**Today's Progress**: Working through the 80 OOP problems. Did 60 of them. 
 
 **Thoughts**: Getting my head around most of the OOP concepts now. 
 
-### Day 52: 4 Jul 2019 (Fri)
+### Day 52: 5 Jul 2019 (Fri)
 
-**Today's Progress**: Working through the 80 OOP problems. Did 60 of them. 
+**Today's Progress**: OOP Medium probs
 
-**Thoughts**: Some of these seem incredibly trivial, and then a couple seem to introduce something we haven't come across before. 
+**Thoughts**: Got stuck om someting I solved one way and LS solved another. Trying really hard to understand the given solution. 
 
 <!--
 ` dayheader keyword 
