@@ -405,6 +405,13 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Got stuck om someting I solved one way and LS solved another. Trying really hard to understand the given solution. 
 
+### Day 53: 8 Jul 2019 (Mon)
+
+**Today's Progress**: Finished the medium OOP problems. 
+
+**Thoughts**: Some tough stuff in there. I want to be more fluent at reading the code. And also at knowing about what can be mixed in. Comparable. I wasn't really on top of at all. 
+
+
 <!--
 ` dayheader keyword 
 -->
