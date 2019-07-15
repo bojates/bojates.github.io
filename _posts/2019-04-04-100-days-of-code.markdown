@@ -411,6 +411,36 @@ Also looking into '/(?=[A-Z])/' and '/(?<=[A-Z])/' for splitting strings and kee
 
 **Thoughts**: Some tough stuff in there. I want to be more fluent at reading the code. And also at knowing about what can be mixed in. Comparable. I wasn't really on top of at all. 
 
+### Day 54: 9 Jul 2019 (Tue)
+
+**Today's Progress**: OOP exercises. 
+
+**Thoughts**: Fitting this around a busy week. Glad to find the time. 
+
+### Day 55: 10 Jul 2019 (Wed)
+
+**Today's Progress**: RB120 study group. 
+
+**Thoughts**: Very useful to have to verbalise it. Getting an idea of the level required. 
+
+### Day 56: 11 Jul 2019 (Thu)
+
+**Today's Progress**: Reviewing notes and working through code examples for the areas in the study guide. 
+
+**Thoughts**: Good to ask myself questions and try to answer them. 
+
+### Day 57: 12 Jul 2019 (Fri)
+
+**Today's Progress**: Studing with Melissa and further clarification on the subjects. 
+
+**Thoughts**: Very useful to hear Melissa's precision of language. I need to work on this. 
+
+### Day 58: 15 Jul 2019 (Mon)
+
+**Today's Progress**: Study prep and then took the assessment. 
+
+**Thoughts**: Felt it went well, but let's see what the results say. 
+
 
 <!--
 ` dayheader keyword 
