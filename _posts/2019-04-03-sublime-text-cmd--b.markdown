@@ -17,3 +17,7 @@ Another thing I wish I'd known: to create a file for each exercise, you can do t
 Or the Ruby CLI version:
 
     ruby -e '(1..10).each { |i| File.open("#{"%02d" % i}.rb", "w") {} }'
+
+Or, just use the shell:
+
+    touch {01..10}.rb
